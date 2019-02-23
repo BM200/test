@@ -14,7 +14,7 @@ new Vue({
     el: 'main',
 
     data:{
-        mensaje: 'Hola Baby :)',
+        mensaje: 'Hola Baby XD :)',
         
     }
 })
